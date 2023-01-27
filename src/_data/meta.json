@@ -1,0 +1,21 @@
+{
+  "siteName": "Netlify CMSで作成するブログサイト",
+  "footerLinks": [
+    {
+      "name": "豆蔵ディベロッパサイト",
+      "url": "https://developer.mamezou-tech2.com"
+    },
+    {
+      "name": "豆蔵ホームページ",
+      "url": "https://www.mamezou3.com/"
+    },
+    {
+      "name": "Yahoo",
+      "url": "https://www.yahoo.co.jp/"
+    },
+    {
+      "name": "Google",
+      "url": "https://www.google.com/"
+    }
+  ]
+}
